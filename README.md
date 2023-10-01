@@ -65,5 +65,5 @@ As a computer scientist, I have ethical responsibilities to both end users and o
 
 - **Organization's Interests**: I have a responsibility to act in the best interests of the organization I work for, including maintaining the confidentiality of proprietary information.
 
-This project reinforced the importance of ethical considerations and the need to integrate them into the development process.
-
+## Conclusion
+This project allowed me to apply my knowledge in reinforcement learning and neural networks to create an intelligent agent. It highlighted the problem-solving skills, ethical responsibilities, and broader implications of computer science in solving real-world challenges.
